@@ -1,7 +1,7 @@
 """
 ---------- REQUIREMENTS ----------
 -As a developer, make at least 3 commits with descriptive messages.
-(1/3)
+(2/3)
 
 -As a developer, make lists of:
     At least 3 Destinations (Goodneighbor, Diamond City, Sanctuary Hills)
