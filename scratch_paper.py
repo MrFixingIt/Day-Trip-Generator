@@ -2,6 +2,7 @@
 print("---------------------------------------------------------------------------")
 print("Let's plan your day trip! How about we start with your desired destination.")
 print("---------------------------------------------------------------------------")
+
 import random
 
 # ------------------ Destinations Loop ------------------ 
@@ -100,4 +101,8 @@ final_trip = {"destination": "chosen_destination", "restaurant": "chosen_resaura
 
 """
 "program": "${file}",
+
+dict_items([('destination', ['Diamond City']), ('restaurant', ["Slocum Joe's"]), ('transprtation', ['Vertibird']), ('entertainment', ['Starlight Drive-In'])]).
+final_trip = {"destination": [chosen_destination],
+
 """
